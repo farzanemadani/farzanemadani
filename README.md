@@ -2,9 +2,10 @@
 
 <p align="left"> I’m a dedicated frontend developer who focuses on building functional and elegant websites. With a strong attention to detail and a passion for clean code, I aim to create exceptional user experiences through my work.
 
-</br> 
+</br>
 
 ### 💻 Tech Stack
+
 Here are a few technologies and languages that I have worked with
 
 <div>
@@ -27,8 +28,8 @@ Here are a few technologies and languages that I have worked with
 </div>
 
 ### Connect with me
+
 <div> 
-  <a href = "mailto: farzane.madani1993@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: farzane.madani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/farzanemadani/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
- 
