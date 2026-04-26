@@ -18,6 +18,9 @@ Here are a few technologies and languages that I have worked with
  <img src="https://seeklogo.com/images/N/nuxt-logo-1CCC5F38FD-seeklogo.com.png" title="nuxt" alt="nuxt" width="45" height="35"/>
  <img src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" title="vuex" alt="vuex" width="40" height="40"/>
 <img src="https://pinia.vuejs.org/logo.svg" title="pinia" alt="pinia" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwind" alt="tailwind" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>
