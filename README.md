@@ -30,6 +30,10 @@ Here are a few technologies and languages that I have worked with
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="yarn" alt="yarn" width="40" height="40"/>
 </div>
 
+### 🚀 Currently Working On
+I am actively developing **[E-commerce-platform]**, where I push updates and improvements on a daily basis. 
+<br>
+![Last Commit](https://img.shields.io/github/last-commit/farzanemadani/E-commerce-platform?style=for-the-badge&logo=github)
 ### Connect with me
 
 <div> 
