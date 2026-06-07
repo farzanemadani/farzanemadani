@@ -31,7 +31,7 @@ Here are a few technologies and languages that I have worked with
 </div>
 
 ### 🚀 Currently Working On
-I am actively developing **[E-commerce-platform]**, where I push updates and improvements on a daily basis. 
+I am actively developing **[E-commerce-platform](https://github.com/farzanemadani/E-commerce-platform)**, where I push updates and improvements on a daily basis. 
 <br>
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/farzanemadani/E-commerce-platform)
 ![GitHub last commit](https://img.shields.io/github/last-commit/farzanemadani/E-commerce-platform)
